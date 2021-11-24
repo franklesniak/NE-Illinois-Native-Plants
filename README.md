@@ -43,7 +43,7 @@ If you believe that something is missing or inaccurate, please report it!
 Examples:
 
 - Missing native plant
-- Commonly mentioned midwest-native plant
+- Missing commonly-mentioned midwest-native plant
 - Plant commonly recommended for midwest Chicago area gardening (if the plant turns out to be nonnative, it may be a candidate for the `Native Alts to Nonnative Plants` tab in Excel)
 - Inaccurate information about a plant
 
