@@ -8,7 +8,7 @@ In GitHub, click the file `NE-IL-Natives.xlsx`, then click `Download`.
 The Excel file will download and will be present in your `Downloads` folder.
 Navigate to the folder, then open the downloaded file with Excel.
 
-## What Ares are Covered by This Project?
+## What Areas are Covered by This Project?
 
 This database covers the following counties in **Illinois**:
 
@@ -34,7 +34,7 @@ and the following counties in **Indiana**:
 - Lake
 - Porter
 
-We consider other counties and regions as being outside the scope of this project.
+(We consider other counties and regions as being outside the scope of this project.)
 
 ## Requests and Changes
 
