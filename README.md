@@ -4,8 +4,9 @@
 
 ## How to Use
 
-In GitHub, click the file `NE-IL-Natives.xlsx`, then click `Download`.
-The Excel file will download and will be present in your `Downloads` folder.
+In GitHub, click the file `NE-IL-Natives.xlsx`, then click `Download` (note: if you don't see the file `NE-IL-Natives.xlsx`, you may need to click `View code` first).
+
+After you click `Download`, the Excel file will download and then will be present in your `Downloads` folder.
 Navigate to the folder, then open the downloaded file with Excel.
 
 ## What Areas are Covered by This Project?
