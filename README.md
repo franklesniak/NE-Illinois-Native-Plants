@@ -9,7 +9,7 @@ In GitHub, click the file `NE-IL-Natives.xlsx`, then click `Download` (note: if 
 After you click `Download`, the Excel file will download and then will be present in your `Downloads` folder.
 Navigate to the folder, then open the downloaded file with Excel.
 
-## What Areas are Covered by This Project?
+## What Areas Does This Project Cover?
 
 This database covers the following counties in **Illinois**:
 
